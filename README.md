@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sahil Shaikh 👋
 
-<!--
-**Elixzon/Elixzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student | Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm an Artificial Intelligence and Data Science student at ISB&M College of Engineering, Pune, interested in building practical software, intelligent applications, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Studying Artificial Intelligence & Data Science
+- 🐍 Developing projects with Python
+- 🤖 Exploring AI assistants and Machine Learning
+- 💻 Learning software development through hands-on projects
+- 🌱 Continuously improving my technical skills
+
+## 🛠️ Technologies & Tools
+
+**Languages:** Python, JavaScript, HTML, CSS, SQL
+
+**AI & Data Science:** Machine Learning, NumPy, Pandas
+
+**Tools & Frameworks:** Git, GitHub, VS Code, Flask, OpenCV
+
+## 🎯 Current Goals
+
+- Strengthen my Python and Machine Learning skills
+- Build and document practical AI projects
+- Improve my software development workflow with Git
+- Contribute to collaborative and open-source projects
+
+## 🤝 Connect With Me
+
+- GitHub: [Elixzon](https://github.com/Elixzon)
+- LinkedIn: Add your LinkedIn profile URL here
+
+---
+
+⭐ Thanks for visiting my profile!
